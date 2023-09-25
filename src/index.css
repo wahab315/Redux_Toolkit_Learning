@@ -58,3 +58,10 @@ a {
   transition: transform 0.5s ease;
   background: linear-gradient(135deg, #7f6de3 0%, #11aaf1 100%);
 }
+
+li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 4rem 0rem;
+}
